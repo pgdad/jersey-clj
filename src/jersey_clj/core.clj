@@ -1,1 +1,0 @@
-(ns jersey-clj.core)
