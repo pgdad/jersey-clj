@@ -1,0 +1,13 @@
+# jersey-clj
+
+Simple way to use jersey servlet container from clojure
+
+## Usage
+
+See test/jersey/test/core.clj for an example
+
+## License
+
+Copyright (C) 2012 pgdad
+
+Distributed under the Eclipse Public License, the same as Clojure.
