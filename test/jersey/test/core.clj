@@ -21,6 +21,7 @@
       (. context addServlet jerseyServlet "/*")
       (. handlers addHandler handler)
       (. server start)
+      (Thread/sleep (* 15 1000))
       ;; TODO: add meaningful test cases
       (. server stop)
       )))
